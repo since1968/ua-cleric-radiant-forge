@@ -1,4 +1,4 @@
-# ua-fighter-hoplite
+# ua-cleric-radiant-forge
 
 For use with Homebrewery Naturalcrit. 
 
